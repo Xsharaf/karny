@@ -1,6 +1,6 @@
 # Karny – Grocery List Manager
 
-**Karny** is a lightweight and intuitive grocery list manager built with Flutter. It helps you plan and manage your shopping efficiently by allowing you to:
+**Karny** is a lightweight and intuitive grocery list manager. It helps you plan and manage your shopping efficiently by allowing you to:
 
 - ✅ Create multiple grocery lists
 - ➕ Add items with quantity, unit, product name, and price
